@@ -1,0 +1,819 @@
+Vegetable Savoury Oats
+Cooking Time: 23 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Sweet corn, Black pepper, Onion, Oats, Carrot, Mushroom, Fresh cream, Thyme, Spinach
+
+Moong Sprouts Sabji
+Cooking Time: 49 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Sprouts, Ginger, Coriander, Onion, Curry leaves, Tomato
+
+Bhori White Chicken
+Cooking Time: 37 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Cinnamon, Green cardamom, Ginger garlic paste, Cumin, Chicken (curry cut), Green chilli, Onion, Salt, Sugar, Fresh cream, Black peppercorn, Coriander seeds, Kasuri methi, Cashews
+
+Soya Granules Curry
+Cooking Time: 60 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Soya granules, Cinnamon, Garlic, Green cardamom, Ginger garlic paste, Garam masala, Coriander, Onion, Green chilli, Bay leaf, Green peas, Fresh curd, Kasuri methi, Tomato
+
+Spicy Korean Chicken Stew
+Cooking Time: 21 mins
+Cuisine: Oriental
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Spring onion, White sesame, Black pepper, Chicken (curry cut), Onion, Sugar, Salt, Soya sauce, Carrot, Gochujang (korean hot chilli paste), Potato
+
+Mor Kuzambu with Okra
+Cooking Time: 49 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Rice, Ginger, Methi seeds, Cumin, Green chilli, Okra/lady finger, Onion, Coconut grated, Fresh curd, Curry leaves, Black peppercorn, Toor daal
+
+Maggie Masala Veggie Oats
+Cooking Time: 23 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Sweet corn, Coriander, Onion, Oats, Maggie magic masala, Carrot, Green peas
+
+Chatpatta Aloo Baigan Fry
+Cooking Time: 21 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Brinjal, Coriander, Chat masala, Amchur powder, Potato, Lemon juice
+
+Goan Prawn Curry
+Cooking Time: 25 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Prawns, Kashmiri chilli, Garlic, Cinnamon, Coconut milk powder, Sugar, Salt, Coconut grated, Curry leaves, Black peppercorn, Coriander seeds, Tomato, Tamarind paste
+
+Plain Maggi Noodles
+Cooking Time: 18 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Maggi noodles, Maggi noodles masala
+
+Potato Sagu
+Cooking Time: 25 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, Ginger, Coriander, Hing, Green chilli, Onion, Chana dal, Curry leaves, Potato, Lemon juice, Dry chili
+
+Palak Dal Khichdi
+Cooking Time: 61 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cinnamon, Garlic, Green cardamom, Rice, Ginger, Green chilli, Moong dal, Bay leaf, Spinach, Dry chili, Tomato
+
+Chicken Tikka Pulao
+Cooking Time: 66 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Cinnamon, Green cardamom, Onion, Bay leaf, Chicken (leg boneless), Basmati rice, Black peppercorn, Star Anise, Tomato
+
+Aloo Pyaaz Ki Sabji
+Cooking Time: 37 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Potato, Onion, Curry leaves
+
+Semiya Upma
+Cooking Time: 23 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, Ghee, Ginger, Vermicelli, Coriander, Green chilli, Onion, Carrot, Ketchup, Green peas, Curry leaves, Beans, Lemon juice, Capsicum, Cashews
+
+Vegetable Kurma
+Cooking Time: 56 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cloves, Carrot, Coconut grated, Cauliflower, Cashews, Star anise, Onion, Green cardamom, Ginger garlic paste, Green chilli, Green peas, Stone flower, Poppy seeds, Tomato, Fennel seeds, Black peppercorn, Cinnamon, Curry leaves, Potato, Beans
+
+Suji Halwa
+Cooking Time: 20 mins
+Cuisine: Indian
+Course: Dessert
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Green cardamom, Sugar, Rava, Almonds, Raisins, Cashews
+
+Home Style Chicken Curry
+Cooking Time: 56 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cinnamon, Kashmiri chilli, Green cardamom, Ginger garlic paste, Garam masala, Coriander, Onion, Chicken (curry cut), Bay leaf, Salt, Green chilli, Tomato, Fresh curd, Coriander stems
+
+Vietnamese Chicken Pho
+Cooking Time: 23 mins
+Cuisine: Oriental
+Course: Soup
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cinnamon, Cloves, Green cardamom, Spring onion, Ginger, Star anise, Coriander, Bok choy, Green chilli, Onion, Magic cube (chicken), Carrot, Mushroom, Chicken (leg boneless), Coriander seeds
+
+Hyderabadi Chicken Biryani
+Cooking Time: 57 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Ghee, Cinnamon, Cloves, Green cardamom, Saffron, Star anise, Shahi biryani masala, Coriander, Whole milk, Chicken (curry cut), Mint, Bay leaf, Basmati rice, Black peppercorn
+
+Goju Avalakki
+Cooking Time: 15 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, Coriander, Mustard, Cumin, Peanuts, Jaggery, Poha (medium), Chana dal, Coconut grated, Curry leaves, Dry chili, Tamarind paste
+
+Dhaba Style Chana Masala
+Cooking Time: 49 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Cinnamon, Garlic, Black chickpeas(kala chana), Ginger garlic paste, Coriander, Black cardamom, Chole masala, Onion, Green chilli, Bay leaf, Coriander stems, Black salt(kala namak), Amchur powder, Kasuri methi, Dry chili, Tomato
+
+Vegan Mapo Tofu
+Cooking Time: 16 mins
+Cuisine: Oriental
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Spring onion, Ginger, Corn flour, Sichuan peppercorn, Red chilli sauce, Sugar, Soya sauce, Tofu, Mushroom, Black bean sauce
+
+Bottle Gourd & Sesame Seed Curry
+Cooking Time: 75 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, White sesame, Ginger garlic paste, Coriander, Green chilli, Onion, Bottle gourd, Curry leaves
+
+Rajma Masala
+Cooking Time: 47 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Coriander, Black cardamom, Onion, Hing, Bay leaf, Rajma, Kasuri methi, Tomato
+
+Palak Lehsuni Chicken
+Cooking Time: 36 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Green cardamom, Ginger, Green chilli, Chicken (leg boneless), Fresh cream, Spinach, Tomato, Cashews
+
+Palak Chicken
+Cooking Time: 52 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Green cardamom, Ginger garlic paste, Onion, Chicken (leg boneless), Spinach, Dry chili, Tomato
+
+Tariwale Aloo Tamatar
+Cooking Time: 45 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Potato, Coriander, Tomato
+
+Palak Lehsuni Mushroom
+Cooking Time: 34 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Green cardamom, Ginger, Green chilli, Mushroom, Spinach, Kasuri methi, Tomato, Cashews
+
+Palak Corn
+Cooking Time: 50 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger garlic paste, Sweet corn, Onion, Fresh cream, Spinach, Dry chili, Tomato
+
+Soya Saag aur Aloo Ki Sabji
+Cooking Time: 30 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Potato, Garlic, Dill leaves (soya saag), Green chilli
+
+Mumbai Pav Bhaji
+Cooking Time: 81 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Pav bhaji masala, Kashmiri chilli, Ginger garlic paste, Coriander, Onion, Baking soda, Butter, Sugar, Carrot, Tomato, Green peas, Potato, Cauliflower, Lemon juice, Coriander stems, Capsicum
+
+Lemon Tahini Couscous with Tofu
+Cooking Time: 31 mins
+Cuisine: Continental
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Sweet corn, Coriander, Couscous, Onion, Green chilli, Tofu, Broccoli, Tahini paste ( white sesame seed paste), Lemon juice, Lemon zest
+
+Paneer Tikka Pulao
+Cooking Time: 68 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cinnamon, Green cardamom, Onion, Paneer, Bay leaf, Basmati rice, Tomato
+
+Spicy Prawn Biryani
+Cooking Time: 57 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Ghee, Cinnamon, Cloves, Green cardamom, Star anise, Shahi biryani masala, Coriander, Mint, Bay leaf, Basmati rice, Black peppercorn, Prawns
+
+Chicken Thukpa
+Cooking Time: 22 mins
+Cuisine: Oriental
+Course: Soup
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Spring onion, Ginger, Coriander, Sichuan peppercorn, Onion, Green chilli, Magic cube (chicken), Coriander stems, Carrot, Mushroom, Chicken (leg boneless), Cabbage, Tomato
+
+Lemon Coriander Soup
+Cooking Time: 21 mins
+Cuisine: Oriental
+Course: Soup
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Magic cubes (vegetarian), Corn flour, Coriander, Onion, Green chilli, Soya sauce, Carrot, Mushroom, White pepper powder, Beans, Lemon juice, Cabbage, Coriander stems, Capsicum
+
+Dal Makhani
+Cooking Time: 39 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger garlic paste, Whole black urad dal, Butter, Fresh cream, Chana dal, Rajma, Kasuri methi, Tomato
+
+Aviyal
+Cooking Time: 51 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Raw banana, Drumstick, Yam, Cumin, Green chilli, Coconut oil, Carrot, Raw mango, Coconut grated, Fresh curd, Curry leaves, Potato, Beans
+
+Baigan Aloo Ki Sabji
+Cooking Time: 46 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Brinjal, Sugar, Potato, Tomato
+
+Japanese Golden Curry
+Cooking Time: 24 mins
+Cuisine: Oriental
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: 
+
+Khatta Meetha Chana Masala
+Cooking Time: 55 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Black chickpeas(kala chana), Ginger garlic paste, Ginger, Coriander, Chole masala, Onion, Green chilli, Amchur powder, Lemon juice, Tomato, Ketchup
+
+Spicy Penne Arrabiatta
+Cooking Time: 45 mins
+Cuisine: Continental
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Pasta seasoning, Basil, Sweet corn, Broccoli, Mini fusilli pasta, Mushroom, Carrot, Processed cheese, Chili flakes, Tomato, Ketchup
+
+Butter Garlic Chicken Bites
+Cooking Time: 14 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Black pepper, Butter, Chicken (leg boneless), Parsley, Chili flakes
+
+Bisibele bath
+Cooking Time: 55 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Roasted peanuts, Rice, Coriander, Onion, Hing, Moong dal, Carrot, Green peas, Curry leaves, Bisibele bath masala, Beans, Dry chili, Tomato, Tamarind paste
+
+Honey Sesame Vegetables Stir Fry
+Cooking Time: 23 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Spring onion, Honey, Vinegar, Ginger, Yellow bellpepper, White sesame, Basil, Red bellpepper, Green chilli, Onion, Soya sauce, Broccoli, Carrot, Mushroom, Baby corn, Chili flakes, Capsicum
+
+Tomato Pepper Rasam
+Cooking Time: 26 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Black pepper, Coriander, Hing, Curry leaves, Black peppercorn, Tomato, Tamarind paste
+
+Italian Tomato & Basil Soup
+Cooking Time: 21 mins
+Cuisine: Continental
+Course: Soup
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Pasta seasoning, Basil, Magic cubes (vegetarian), Black pepper, Carrot, Fresh cream, Tomato, Ketchup
+
+Chole Masala
+Cooking Time: 65 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Cinnamon, Ginger, Ginger garlic paste, Coriander, Black cardamom, Chole masala, Onion, Green chilli, Bay leaf, Fresh curd, Chole, Dry chili, Tomato
+
+Thai Green Vegetable Curry
+Cooking Time: 20 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Yellow bellpepper, Basil, Coconut milk powder, Thai green curry paste, Green chilli, Red bellpepper, Broccoli, Mushroom, Carrot, Zuchinni, Baby corn, Capsicum
+
+Vegetable Maggi
+Cooking Time: 25 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Coriander, Maggi noodles masala, Onion, Green chilli, Carrot, Maggi noodles, Green peas, Tomato, Capsicum
+
+Kung Pao Chicken
+Cooking Time: 14
+Cuisine: Oriental
+Course: Appetizer
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Corn flour, Red bellpepper, Star anise, Black pepper, Sugar, Onion, Chicken (leg boneless), Ketchup, Spring onion, Roasted peanuts, Ginger garlic paste, Red chilli sauce, Soya sauce, Salt, Ginger, Yellow bellpepper, Dry chili, Capsicum
+
+Ven Pongal
+Cooking Time: 44 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Rice, Ginger, Hing, Green chilli, Moong dal, Curry leaves, Black peppercorn, Cashews
+
+Chicken Stew
+Cooking Time: 45 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Cinnamon, Green cardamom, Garlic, Ginger, Potato, Coconut milk powder, Black pepper, Green chilli, Coconut oil, Curry leaves, Carrot, Chicken (leg boneless), Shallots, Black peppercorn
+
+Masala Chicken Pulao
+Cooking Time: 71 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Cinnamon, Green cardamom, Star anise, Onion, Chicken (curry cut), Bay leaf, Basmati rice, Black peppercorn, Tomato
+
+Kadala Curry
+Cooking Time: 42 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Black chickpeas(kala chana), Coconut milk, Coriander, Onion, Shallots, Coconut chunks, Curry leaves, Coconut grated, Coriander powder, Tomato
+
+Methi Aloo
+Cooking Time: 34 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Green chilli, Methi, Curry leaves, Potato, Tomato
+
+Thai Red Chicken Curry
+Cooking Time: 20 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Yellow bellpepper, Basil, Coconut milk powder, Chicken (leg boneless), Thai red curry paste, Red bellpepper, Capsicum
+
+Butter Garlic Prawns
+Cooking Time: 11 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Black pepper, Butter, Parsley, Prawns, Chili flakes
+
+Dhaniya Hari Mirch Chicken
+Cooking Time: 50 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Cinnamon, Green cardamom, Coriander, Onion, Chicken (curry cut), Bay leaf, Green chilli, Fresh curd, Spinach, Coriander seeds, Kasuri methi
+
+Moong Dal sambar
+Cooking Time: 63 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Methi seeds, Coconut grated, Shallots, Chana dal, Black pepper, Hing, Moong dal, Baking soda, Sugar, Pumpkin, Aachi sambar powder, Kashmiri chilli, Tamarind, Poppy seeds, Tomato, Drumstick, Coriander, Curry leaves, Dry chili
+
+Lauki Chana Dal
+Cooking Time: 70 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Coriander, Onion, Bottle gourd, Chana dal, Tomato
+
+Sabudana Khichdi
+Cooking Time: 22 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Roasted peanuts, Coriander, Green chilli, Sugar, Sabudana, Lemon juice
+
+Creamy Pesto Pasta
+Cooking Time: 25 mins
+Cuisine: Continental
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Pasta seasoning, Basil, Black pepper, Mini penne, Basil pesto sauce, Fresh cream, Processed cheese
+
+Ingredient Tray Test
+Cooking Time: 19 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: 
+
+Matar Paneer
+Cooking Time: 39 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Kashmiri chilli, Ginger, Ginger garlic paste, Coriander, Green chilli, Paneer, Green peas, Besan/gram flour, Kasuri methi, Tomato
+
+Tadka Dal Khichdi
+Cooking Time: 56 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Rice, Ginger, Onion, Green chilli, Moong dal, Curry leaves, Dry chili, Tomato
+
+Masala Vegetable Pulao
+Cooking Time: 71 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cinnamon, Green cardamom, Rice, Ginger garlic paste, Star anise, Coriander, Onion, Green chilli, Bay leaf, Carrot, Green peas, Cauliflower, Beans, Tomato
+
+Kanda Poha
+Cooking Time: 21 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Coriander, Onion, Green chilli, Peanuts, Sugar, Poha (medium), Curry leaves, Potato, Lemon juice
+
+Fusilli Alfredo
+Cooking Time: 28 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Pasta seasoning, Sweet corn, Black pepper, Onion, Butter, Broccoli, Mini fusilli pasta, Mushroom, Carrot, Fresh cream, Parsley, Processed cheese
+
+Thuppada Avalakki (Ghee poha)
+Cooking Time: 16 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Coriander, Onion, Peanuts, Green chilli, Sugar, Poha (medium), Coconut grated, Curry leaves, Lemon juice, Cashews
+
+Veg Manchow Soup
+Cooking Time: 19 mins
+Cuisine: Oriental
+Course: Soup
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Spring onion, Ginger, Magic cubes (vegetarian), Black pepper, Coriander, Corn flour, Onion, Green chilli, Red chilli sauce, Soya sauce, Carrot, Mushroom, Beans, Cabbage, Coriander stems, Capsicum
+
+Paneer Butter Masala
+Cooking Time: 47 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Mustard oil, Garlic, Chili powder, Fresh cream, Kasuri methi, Cashews, Onion, Paneer, Butter, Sugar, Kashmiri chilli, Green cardamom, Ginger garlic paste, Garam masala, Fresh curd, Tomato, Cinnamon, Turmeric, Coriander, Coriander stems
+
+Cheese Corn Maggi
+Cooking Time: 23 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Sweet corn, Maggi noodles masala, Broccoli, Maggi noodles, Processed cheese
+
+Methi Malai Matar
+Cooking Time: 37 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cinnamon, Green cardamom, Ginger garlic paste, Onion, Methi, Bay leaf, Sugar, Green peas, Fresh cream, Kasuri methi, Tomato
+
+Palak Aloo
+Cooking Time: 31 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Green chilli, Potato, Spinach, Tomato
+
+Lobia Masala
+Cooking Time: 51 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Coriander, Hing, Onion, Black-eyed pea (lobia), Curry leaves, Tomato
+
+Navratan Vegetable Pulao
+Cooking Time: 94 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Carrot, Cauliflower, Cashews, Saffron, Star anise, Onion, Paneer, Bay leaf, Raisins, Ghee, Green cardamom, Whole milk, Green chilli, Basmati rice, Green peas, Almonds, Cinnamon, Ginger, Coriander, Beans
+
+Gavar Fali Ki Sabji
+Cooking Time: 56 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Coriander, Jaggery, Hing, Ajwain (carom seeds), Cluster beans (gavar fali), Potato
+
+Burmese Khao Suey
+Cooking Time: 36 mins
+Cuisine: Oriental
+Course: Soup
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Magic cubes (vegetarian), Coconut milk powder, Green chilli, Onion, Sugar, Broccoli, Carrot, Mushroom, Besan/gram flour, Zuchinni, Baby corn, Coriander stems
+
+Pesto Paneer
+Cooking Time: 13 mins
+Cuisine: Continental
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Pasta seasoning, Yellow bellpepper, Black pepper, Onion, Paneer, Basil pesto sauce, Fresh cream, Red bellpepper, Processed cheese, Capsicum
+
+Sorakkai Kootu
+Cooking Time: 51 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, Coriander, Cumin, Green chilli, Moong dal, Hing, Coconut oil, Chana dal, Bottle gourd, Coconut grated, Curry leaves, Dry chili
+
+Malabar Chicken Curry
+Cooking Time: 46 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Coconut grated, Shallots, Chicken (curry cut), Onion, Bay leaf, Coriander seeds, Green cardamom, Ginger garlic paste, Coconut milk powder, Salt, Tomato, Fennel seeds, Cinnamon, Turmeric, Coriander, Curry leaves, Black peppercorn, Dry chili, Coriander stems
+
+Egg Masala
+Cooking Time: 43 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cinnamon, Garlic, Green cardamom, Coriander, Onion, Bay leaf, Dry chili, Tomato, Eggs
+
+Moong Dal Halwa
+Cooking Time: 20 mins
+Cuisine: Indian
+Course: Dessert
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Green cardamom, Moong dal, Sugar, Rava, Almonds, Raisins, Besan/gram flour, Cashews
+
+Matar Mushroom Masala
+Cooking Time: 48 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Onion, Mushroom, Green peas, Dry chili, Tomato
+
+Moroccan Chicken Couscous
+Cooking Time: 39 mins
+Cuisine: Continental
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Couscous, Cumin, Birista (fried onions), Cashews, Saffron, Chicken (curry cut), Raisins, Coriander seeds, Green cardamom, Ginger garlic paste, Whole milk, Green chilli, Salt, Almonds, Cinnamon, Cooking oil, Parsley, Black peppercorn
+
+Dahiwale Baigan
+Cooking Time: 22 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cinnamon, Cloves, Green cardamom, Brinjal, Coriander, Hing, Sugar, Bay leaf, Green chilli, Fresh curd, Besan/gram flour, Dry chili
+
+Aloo Shimla Mirch Gravy
+Cooking Time: 42 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Coriander, Onion, Green chilli, Potato, Coriander seeds, Tomato, Capsicum
+
+Chetinad Chicken Gravy
+Cooking Time: 50 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Garlic, Cumin, Coconut grated, Star anise, Onion, Chicken (curry cut), Coriander seeds, Green cardamom, Green chilli, Stone flower, Poppy seeds, Tomato, Fennel seeds, Cinnamon, Coriander, Curry leaves, Black peppercorn, Dry chili
+
+Pesto Chicken
+Cooking Time: 19 mins
+Cuisine: Continental
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Pasta seasoning, Yellow bellpepper, Black pepper, Onion, Basil pesto sauce, Chicken (leg boneless), Fresh cream, Red bellpepper, Processed cheese, Capsicum
+
+Paneer Khurchan
+Cooking Time: 39 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger, Coriander, Green chilli, Onion, Paneer, Tomato, Capsicum
+
+Goan Fish Curry
+Cooking Time: 26 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Kashmiri chilli, Garlic, Cinnamon, Fish, Coconut milk powder, Sugar, Salt, Curry leaves, Coconut grated, Tamarind, Black peppercorn, Coriander seeds, Tomato
+
+Lauki Tamatar
+Cooking Time: 58 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger, Ginger garlic paste, Coriander, Bottle gourd, Tomato
+
+Turai Masala Sabji
+Cooking Time: 53 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ridged gourd (turai), Ginger garlic paste, Coriander, Onion, Tomato
+
+Basa Fish Curry
+Cooking Time: 19 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cloves, Garlic, Green cardamom, Ginger, Fish, Methi seeds, Coconut milk powder, Onion, Green chilli, Curry leaves, Black peppercorn
+
+Lemon Rice
+Cooking Time: 39 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, Rice, Ginger, Coriander, Green chilli, Peanuts, Curry leaves, Chana dal, Lemon juice
+
+Veg Hot & Sour Soup
+Cooking Time: 19 mins
+Cuisine: Oriental
+Course: Soup
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Vinegar, Spring onion, Ginger, Magic cubes (vegetarian), Black pepper, Corn flour, Green chilli, Red chilli sauce, Soya sauce, Sugar, Carrot, Mushroom, Beans, Cabbage, Capsicum
+
+Butter Chicken
+Cooking Time: 32 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Cinnamon, Green cardamom, Kashmiri chilli, Chicken (curry cut), Sugar, Butter, Coriander stems, Fresh cream, Kasuri methi, Tomato, Cashews
+
+Paneer Bhurji
+Cooking Time: 17 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Coriander, Green chilli, Onion, Paneer, Tomato
+
+Schezwan Vegetable Maggi
+Cooking Time: 20 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Spring onion, Maggi noodles masala, Carrot, Maggi noodles, Schezwan sauce, Spring onion bulb, Capsicum
+
+Palak Paneer
+Cooking Time: 52 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger garlic paste, Onion, Paneer, Fresh cream, Spinach, Dry chili, Tomato
+
+Chicken Pepper Dry
+Cooking Time: 40 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Coriander, Cumin, Onion, Chicken (leg boneless), Curry leaves, Black peppercorn, Tomato, Fennel seeds
+
+Pumpkin Shukto
+Cooking Time: 29 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger, Methi seeds, Coriander, Mustard, Cumin, Hing, Sugar, Bay leaf, Pumpkin, Amchur powder, Kasuri methi, Dry chili, Fennel seeds
+
+Red Gajar Halwa
+Cooking Time: 37 mins
+Cuisine: Indian
+Course: Dessert
+Veg/Non-Veg: Vegetarian
+Ingredients: Ghee, Green cardamom, Milk powder, Sugar, Carrot, Raisins, Milk maid, Cashews
+
+Chinese Style Chilli Chicken
+Cooking Time: 14 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Garlic, Spring onion, Ginger, Corn flour, Coriander, Green chilli, Onion, Red chilli sauce, Soya sauce, Chicken (leg boneless), Ketchup, Capsicum
+
+Lucknowi Chicken Biryani
+Cooking Time: 57 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Ghee, Cinnamon, Cloves, Green cardamom, Nutmeg, Saffron, Coriander, Whole milk, Chicken (curry cut), Mace, Bay leaf, Mint, Basmati rice, Black peppercorn
+
+Sev Tamatar Ki Sabji
+Cooking Time: 46 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger garlic paste, Coriander, Jaggery, Onion, Hing, Curry leaves, Tomato
+
+Rava Upma
+Cooking Time: 21 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Urad dal, Ghee, Ginger, Coriander, Green chilli, Onion, Rava, Carrot, Chana dal, Green peas, Curry leaves, Lemon juice
+
+Aloo Beans Ki Sabji
+Cooking Time: 31 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Coriander, Chat masala, Potato, Beans, Sambar masala
+
+Boondi Kadhi
+Cooking Time: 15 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Ginger, Unsalted boondi, Coriander, Fresh curd, Curry leaves, Besan/gram flour, Dry chili
+
+Mutton keema
+Cooking Time: 64 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cinnamon, Garlic, Green cardamom, Ginger, Ginger garlic paste, Coriander, Onion, Green chilli, Bay leaf, Mutton keema, Fresh curd, Tomato
+
+Tomato Rice
+Cooking Time: 45 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Cloves, Cinnamon, Green cardamom, Garlic, Ginger, Kashmiri chilli, Rice, Star anise, Coriander, Onion, Curry leaves, Tomato
+
+Papdi Ki Sabji
+Cooking Time: 56 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Ginger garlic paste, Coriander, Jaggery, Hing, Broad beans (papdi), Ajwain (carom seeds), Potato
+
+Chicken Varuval
+Cooking Time: 31 mins
+Cuisine: Indian
+Course: Main
+Veg/Non-Veg: Non-Vegetarian
+Ingredients: Cinnamon, Cloves, Green cardamom, White sesame, Coriander, Cumin, Onion, Coconut oil, Chicken (leg boneless), Curry leaves, Black peppercorn, Coriander seeds, Lemon juice, Dry chili, Fennel seeds
+
+Vegetables In Hot Garlic Sauce
+Cooking Time: 23 mins
+Cuisine: Oriental
+Course: Main
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Spring onion, Yellow bellpepper, Basil, Corn flour, Baby corn, Red bellpepper, Green chilli, Onion, Tofu, Broccoli, Red chilli sauce, Carrot, Mushroom, Soya sauce, Ketchup, Dry chili, Capsicum
+
+Asian Style Savoury Oats
+Cooking Time: 23 mins
+Cuisine: Indian
+Course: Breakfast
+Veg/Non-Veg: Vegetarian
+Ingredients: Garlic, Spring onion, Ginger, Hakka noodle seasoning, Sweet corn, Coriander, Onion, Oats, Carrot, Mushroom, Schezwan sauce
+

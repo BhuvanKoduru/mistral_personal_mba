@@ -1,13 +1,13 @@
 import streamlit as st
-from langchain.llms import Ollama
+from langchain_community.llms import Ollama
 import os
 import chromadb
-from langchain.chains import RetrievalQA
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.chains.retrieval_qa.base import RetrievalQA
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from chromadb.config import Settings
-
+from langchain_community.embeddings.ollama import OllamaEmbeddings
 from langchain.vectorstores import Chroma
-from langchain.llms import Ollama
+from langchain_community.llms import Ollama
 from langchain.callbacks.base import BaseCallbackHandler
 
 # Custom streamlit handler to display LLM outputs in stream mode
@@ -23,21 +23,20 @@ class StreamHandler(BaseCallbackHandler):
 # streamlit UI configuration
 def setup_page():
     st.set_page_config(layout="wide")
-    st.markdown("<h2 style='text-align: center; color: white;'>Your Personal MBA </h2>" , unsafe_allow_html=True)
-    url = 'https://personalmba.com/'
+    st.markdown("<h2 style='text-align: center; color: white;'>Nosh Chatbot!</h2>" , unsafe_allow_html=True)
+    # url = 'https://personalmba.com/'
     col1, col2, col3= st.columns(3)
     with col2:
         st.markdown("""
             <div style="text-align: center;">
-            <h5 style='color: white;'>Inspired by </h5>
-            <a href="%s">The Personal MBA by Josh Kaufman</a>  
+            <h5 style='color: white;'>RAG Agent</h5>
             </div>
-            """ % url, unsafe_allow_html=True)
+            """  ,unsafe_allow_html=True)
     st.divider()
 
 # get necessary environment variables for later use
 def get_environment_variables():
-    model = os.environ.get("MODEL", "mistral")
+    model = os.environ.get("MODEL", "phi3")
     embeddings_model_name = os.environ.get("EMBEDDINGS_MODEL_NAME", "all-MiniLM-L6-v2")
     persist_directory = os.environ.get("PERSIST_DIRECTORY", "db")
     target_source_chunks = int(os.environ.get('TARGET_SOURCE_CHUNKS', 4))
@@ -46,6 +45,7 @@ def get_environment_variables():
 # create knowledge base retriever
 def create_knowledge_base(embeddings_model_name, persist_directory, target_source_chunks):
     embeddings = HuggingFaceEmbeddings(model_name=embeddings_model_name)
+    # embeddings = OllamaEmbeddings(model="nomic-embed-text")
     db = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
     retriever = db.as_retriever(search_kwargs={"k": target_source_chunks})
     return retriever
@@ -81,10 +81,9 @@ def show_examples():
     with examples.container():
         with st.chat_message('assistant'):
             st.markdown('Example questions:')
-            st.markdown(' - How do I know that I am making the right decisions?')
-            st.markdown(' - What are the key ideas in Chapter 6 "The Human Mind"?')
-            st.markdown(' - What are common traits shared by the most sucessful individuals in the world?')
-            st.markdown(' - I want to be a millionaire, build me a 5 year roadmap based on the top 0.01 percent of the human population.')
+            st.markdown(' - What dishes do you have?')
+            st.markdown(' - What is the cooking time of Rajma Masala?')
+
             st.markdown('So, how may I help you today?')
     return examples
 

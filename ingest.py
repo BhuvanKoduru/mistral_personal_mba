@@ -4,7 +4,7 @@ from typing import List
 from multiprocessing import Pool
 from tqdm import tqdm
 
-from langchain.document_loaders import (
+from langchain_community.document_loaders import (
     CSVLoader,
     EverNoteLoader,
     PyMuPDFLoader,
@@ -18,10 +18,12 @@ from langchain.document_loaders import (
     UnstructuredWordDocumentLoader,
 )
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.docstore.document import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+# from langchain_chroma import Chroma
+from langchain_community.vectorstores import Chroma
+
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.docstore.document import Document
 
 
 # Load environment variables
@@ -142,6 +144,7 @@ def main():
     if does_vectorstore_exist(persist_directory):
         # Update and store locally vectorstore
         print(f"Appending to existing vectorstore at {persist_directory}")
+
         db = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
         collection = db.get()
         texts = process_documents([metadata['source'] for metadata in collection['metadatas']])
@@ -153,6 +156,8 @@ def main():
         texts = process_documents()
         print(f"Creating embeddings. May take some minutes...")
         db = Chroma.from_documents(texts, embeddings, persist_directory=persist_directory)
+
+
     db.persist()
     db = None
 
